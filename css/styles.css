@@ -9,6 +9,7 @@ hr {
   border-color: #c9d6df;
   border-width: 4px;
   width: 30%;
+  margin: 30px auto;
 }
 
 h1 {
@@ -34,6 +35,7 @@ h3 {
 }
 
 .middle-container {
+  margin: 50px auto;
 }
 
 .bottom-container {
